@@ -3,7 +3,7 @@
 ## Hybrid biLSTM and CNN architecture for Sentence Unit Detection
 
 
-Example code and data for paper [A Hybrid Deep Learning Architecture for Sentence Unit Detection]() (IALP 2018).
+Example code and data for paper [A Hybrid Deep Learning Architecture for Sentence Unit Detection](https://ieeexplore.ieee.org/abstract/document/8629178) (IALP 2018).
 
 LSTM-CNN-SUD, version ``1.0``, is a project that was developed with 3 main functions:
 
